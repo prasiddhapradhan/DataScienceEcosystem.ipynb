@@ -1,0 +1,70 @@
+<center>
+    <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png" width="300" alt="cognitiveclass.ai logo">
+</center>
+
+
+#### Add your code below following the instructions given in the course
+
+
+# Data Science Tools and Ecosystem
+
+In this notebook, Data Science Tools and Ecosystem are summarized
+
+Some of the popular languages that Data Scientists use are:
+    1.Python
+    2.R 
+    3.SQL
+
+Some of the commonly used libraries used by Data Scientists include:
+    1. NumPy
+    2. Pandas
+    3. Matplotlib
+
+| Data Science Tools |
+|--------------------|
+| Jupyter Notebook |
+| RStudio          |
+| Google Colab     |
+
+### Below are a few examples of evaluating arithmetic expressions in Python.
+
+
+```python
+# This is a simple arithmetic expression to multiply then add integers
+result = (3 * 4) + 5
+result
+```
+
+
+
+
+    17
+
+
+
+
+```python
+# This will convert 200 minutes to hours by dividing by 60
+hours = 200 / 60
+hours
+```
+
+
+
+
+    3.3333333333333335
+
+
+
+**Objectives**
+- List popular languages for Data Science
+- List commonly used libraries in Data Science
+- Provide examples of arithmetic operations in Python
+
+## Author
+[Prasiddha Pradhan]
+
+
+```python
+
+```
